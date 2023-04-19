@@ -36,3 +36,6 @@ You can run these notebooks in Jupyter Lab or Jupyter Notebook. The NLP1.ipynb n
 ### Conclusion
 
 This project demonstrates the use of pre-trained word embeddings and machine learning algorithms to analyze sentiment in Amazon Fine Food Reviews. With further improvements, the project can be extended to other datasets and applications.
+
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rammalali&show_icons=true)
